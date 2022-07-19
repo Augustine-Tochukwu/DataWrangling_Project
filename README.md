@@ -7,10 +7,12 @@
 
 Data Wrangling process used in my analysis includes the
 
-Gathering
-Assess
-Clean
-Gathering
+* Gathering
+* Assess
+* Clean
+
+### Gathering
+
 The first step as mentioned above is the GATHERING stage where i got to assemble all the data i needed for this project, First of all the The WeRateDogs Twitter archive was gathered by Downloading manually. Once it was downloaded, i uploaded it and read the data into a pandas DataFrame in the wrangle_act jupyter notebook.
 
 Secondly,The tweet image predictions file (image_predictions.tsv) i got was also provided via a link on Udacity's classroom and was downloaded programmatically using the Requests library and the URL below: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv.
