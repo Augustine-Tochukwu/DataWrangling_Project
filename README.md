@@ -1,6 +1,10 @@
 # DataWrangling_Project
-WeRateDogs Wrangling_Project 
-WRANGLING EFFORTS
+
+## WeRateDogs Wrangling_Project 
+
+### WRANGLING EFFORTS
+
+
 Data Wrangling process used in my analysis includes the
 
 Gathering
